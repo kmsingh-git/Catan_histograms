@@ -2,5 +2,4 @@
 Python code to generate graphs (histograms) for multiple dice rolls, while analysing the game of Catan.
 <br>Graphing Package used - Plotly
 
-<p><p> The analysis will be shared as a Medium article.
-<br>TODO: Insert article link here when completed
+<p><p> I've shared this analysis on Medium - https://medium.com/@Singh314/probability-theory-in-catan-e302fed44532
